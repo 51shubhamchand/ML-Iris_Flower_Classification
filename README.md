@@ -16,3 +16,8 @@ https://51shubhamchand-ml-iris-flower-classification-streamlit-w3y82w.streamlit.
 
 ## References:
 https://github.com/nachi-hebbar/Streamlit-ML-Web-App
+
+## Regards:
+**Shubham Chand**
+- Github: [@51shubhamchand](https://github.com/51shubhamchand)
+- LinkedIn: [@shubham-chand-12100189](https://www.linkedin.com/in/shubham-chand-12100189)
